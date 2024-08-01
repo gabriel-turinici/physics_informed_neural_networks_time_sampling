@@ -1,4 +1,5 @@
-# Time sampling for physics-informed neural networks (PINN)
+
+[comment]: # (# Time sampling for physics-informed neural networks (PINN))
 This is a repository of codes that implement special sampling and weighting schemes for Physics-informed Neural Networks (PINN). 
 
 References : arxiv papers by G. Turinici 
