@@ -1,5 +1,5 @@
-
-[comment]: # (# Time sampling for physics-informed neural networks (PINN))
+<!--
+[//]: # (# Time sampling for physics-informed neural networks (PINN))  
 This is a repository of codes that implement special sampling and weighting schemes for Physics-informed Neural Networks (PINN). 
 
 References : arxiv papers by G. Turinici 
@@ -8,7 +8,7 @@ paper 1: arXiv:2404.18780 "Optimal time sampling in physics-informed neural netw
 
 paper 2 arXiv:2407.21642 "Lyapunov weights to convey the meaning of time in physics-informed neural networks" https://arxiv.org/abs/2407.21642
 
-
+--> 
 ## This repository is the official implementation of "Lyapunov weights to convey the meaning of time in physics-informed neural networks"  arXiv:2407.21642
 
 ## Requirements
